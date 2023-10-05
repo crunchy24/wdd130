@@ -5,10 +5,10 @@ body {
     background-color: #fcfbfb; 
 }
 header {
-    background-color:rgba(20,30,13, .7);
+    background-color:rgba(153, 209, 114, 0.7);
 }
 nav a:hover {
-    background-color: black;
+    background-color: rgb(209, 34, 34);
 }
 nav a:hover {
     background-color: black;
@@ -19,7 +19,7 @@ nav a:hover {
 }
 nav a {
     text-align: center;
-    color: #fcfbfb;
+    color: #1f78d0;
     text-decoration: none;
 }    
 footer p {
@@ -27,4 +27,5 @@ footer p {
 }   
 footer p a:hover {
     text-decoration: underline;
-}   
+}  
+    
