@@ -1,0 +1,15 @@
+
+body {
+    width: 450px;
+    background-color:azure;
+    margin: 0 auto;
+    text-align: center;
+    
+}
+h1:hover{
+    color:blue
+
+}
+h1{
+    color:black
+}
