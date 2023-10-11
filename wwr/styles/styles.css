@@ -2,7 +2,7 @@
     height: 725px;
 }
 body {
-    background-color: #fcfbfb; 
+    background-color: #fbfafa; 
 }
 header {
     background-color:rgba(153, 209, 114, 0.7);
@@ -19,13 +19,52 @@ nav a:hover {
 }
 nav a {
     text-align: center;
-    color: #1f78d0;
+    color: #15487b;
     text-decoration: none;
 }    
 footer p {
     font-size: 1.2em;
+    background-color: beige;
 }   
 footer p a:hover {
     text-decoration: underline;
+    background-color: aqua;
 }  
-    
+.home-title {
+    font-family: 'Rock Salt','Bradley Hand',sans-serif;
+    font-size: 2em;
+}
+.msg {
+    background-color: aliceblue;
+    line-height: 1.5em;
+}
+body {
+    background-color: #fcfbfb;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 22px;
+    margin: 0;
+    padding: 0;
+}
+h2 {
+    margin: 0;
+}
+nav a {
+    text-decoration: none;
+    color: #fcfbfb;
+    text-align: center;
+    padding: 35px;
+}
+.book, .join{
+    background-color: #d9c2a3;
+    color: black;
+    text-decoration: none;
+    font-size: 18px;
+    padding: 15px 30px;
+    margin-top: 50px;
+}
+.card-img {
+    border: 10px solid #d9c2a3;
+}
+main section img {
+    box-sizing: border-box;
+}
