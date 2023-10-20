@@ -1,0 +1,17 @@
+.gridcontainer{
+    display: grid;
+    grid-template-columns: 1fr, 1fr;
+    background-color: grey;
+    width: auto;
+    height: auto;
+}
+.tart{
+    container: 1fr;
+    height: 10px;
+    width: 10px;
+}
+.sweet{
+    container: 1fr;
+    height: 10px;
+    width: 10px;
+}
