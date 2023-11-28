@@ -6,15 +6,9 @@ body {
     background-color: #fbfafa; 
 }
 header {
-    background-color:#4B88B3(153, 209, 114, 0.7);
+    background-color:#4B88B3;
     display: grid;
     grid-template-columns: 150px auto;
-}
-.header {
-    padding: 80px;
-    text-align: center;
-    background-color: #4B88B3;
-    color: white;
 }
 nav {
     display: flex;
