@@ -157,7 +157,7 @@ footer {
     width: 50%;
 }
 @media screen and (max-width: 900px) {
-    #hero, .home-grid {
+    #hero, .home-grid{
         display: block;
         height: auto;
     }
@@ -189,5 +189,5 @@ nav, footer {
 }
 footer {
     margin-top: 25px;
- }
+}
 
