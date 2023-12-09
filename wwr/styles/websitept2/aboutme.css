@@ -78,7 +78,6 @@ main section img {
 #logo_link {
     padding-top: 5px;
     justify-self: center;
-    align-self: center;
 }
 #hero {
     display: grid;
@@ -93,7 +92,7 @@ main section img {
     grid-column: 2/3;
     grid-row: 1/2;
     z-index: -1;
-    padding: auto;
+    padding: 1px 4px;
 }
 #hero-msg h4 {
     color: white;
@@ -103,7 +102,7 @@ main section img {
     grid-column: 2/3;
     grid-row: 1/4;
     margin-top: 100px;
-    padding: auto;
+    padding: 1px 4px;
 }
 .card-img, .mountains {
     width: 100%;
@@ -180,6 +179,6 @@ nav, footer {
 #background {
     display: none;
 }
-footer {
-    margin-top: 25px;
+footer 
+{    margin-top: 25px;
 }
